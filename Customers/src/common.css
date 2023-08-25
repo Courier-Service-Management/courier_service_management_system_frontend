@@ -1,0 +1,137 @@
+.header{
+    height: 100px;
+    width:100%;
+    background-color: aquamarine;
+}
+
+.footer{
+    height: 100px;
+    width:100%;
+    background-color: dimgrey;
+
+}
+
+.myTable{
+    margin: 20px;
+    width: 80%;
+    
+}
+
+.length{
+  height:70%;
+  width:100%;
+}
+
+.red-text {
+    color: red;
+  }
+  .style{
+    width:100%;
+    height: 130%;
+  }
+  .right {
+    height:60%;
+    width:20%;
+  }
+  .left {
+    float:left;
+  }
+  .righ {
+    float:right;
+  }
+  .len{
+    height: 110%;
+    width: 100%;
+  }
+
+  .nav{
+    height:100;
+    background-color: burlywood;
+  }
+  .colr{
+    color: red;
+   
+  }
+
+  .col{
+    color: black;
+  }
+.f{
+  font-size: 50px;
+  color: black;
+}
+  .font{
+    font-size: 30px;
+    color: red;
+  }
+  .w{
+    width: 100%;
+    height: 500px;
+  }
+  .fc{
+    color: azure;
+    font-size: 20px;
+  }
+
+  .tr{
+    height: 50px;
+    width: 100%;
+  }
+  .td{
+    width: 30px;
+  }
+  .fa{
+    color: red;
+    font-size: 20px;
+  }
+
+  .flex{
+    display: flex;
+  }
+  .im{
+    margin-left: -30%;
+    margin-top: 0%;
+  }
+
+.image{
+  margin-left: 100%;
+  margin-top: 10%;
+}
+
+.img{
+  margin-left: 10%;
+
+}
+
+.side{
+  margin-left: 100%;
+  margin-top: -20%;
+}
+.imag{
+  margin-left: 20%;
+
+}
+.of{
+  margin-left: -20%;
+  margin-top: 80;
+}
+.sp{
+  margin-left: 10% ;
+  margin-top: 10%;
+}
+.lsd{
+  margin-left: 20%;
+  margin-top: 10%;
+}
+.b{
+  color: darkblue;
+   font-size: 20px;
+}
+.lengths{
+ 
+    height:100%;
+    width:100%;
+  }
+
+
+ 
